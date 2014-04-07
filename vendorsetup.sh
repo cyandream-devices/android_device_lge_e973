@@ -14,4 +14,4 @@
 # limitations under the License.
 #
 
-add_lunch_combo cm_e973-userdebug
+add_lunch_combo cd_e973-userdebug
